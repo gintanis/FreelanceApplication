@@ -1,0 +1,2 @@
+# SpiritualityApplication
+Spirituality app 
