@@ -1,2 +1,2 @@
-# SpiritualityApplication
-Spirituality app 
+# FreelanceApplication
+Freelance app 
